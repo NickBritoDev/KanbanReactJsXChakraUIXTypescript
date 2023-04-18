@@ -1,5 +1,6 @@
 {
   "name": "kanbanreactjsxchakrauixtypescript",
+  "homepage": "https://NickBritoDev.github.io/KanbanReactJsXChakraUIXTypescript",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +10,6 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
-  "homepage": "https://NickBritoDev.github.io/KanbanReactJsXChakraUIXTypescript",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.18",
     "@chakra-ui/react": "^2.5.5",
